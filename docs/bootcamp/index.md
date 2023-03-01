@@ -214,7 +214,7 @@ also learn about the semantic elements introduced in HTML5 and how to use them
 to improve the accessibility and SEO of your web pages.
 
 To begin learning HTML, you can start with the following tutorial:
-https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5
+https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 ### CSS
 
@@ -228,8 +228,8 @@ elements, add styles to them, use CSS units, create layouts, and more. You'll
 also learn about responsive design and how to create web pages that work on
 different devices and screen sizes.
 
-To begin learning CSS, you can start with the following tutorial:
-https://www.freecodecamp.org/learn/responsive-web-design/#basic-css
+To begin learning CSS, you continue with the CSS courses in same tutorial:
+https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 #### Tailwind
 
